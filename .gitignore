@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Backend
+backend/vendor/
+backend/web/sites/*/files/
+backend/web/sites/*/private/
+backend/.ddev/.db_snapshots/
+
+# Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/*.log
+
+# Environment files
+**/.env
+**/.env.local
