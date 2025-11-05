@@ -11,3 +11,5 @@ Over time I hope that the app will be used by:
 1. Early adopters that are passionate about growing food
 2. Communities that already give or trade food but don't yet have a platform that makes this easy to manage
 3. Organisations such as food banks, supermarkets, restaurants that would otherwise have to throw food away
+
+This line is a test to make sure Git is working between local and cloud.
